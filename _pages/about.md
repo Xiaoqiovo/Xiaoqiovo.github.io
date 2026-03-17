@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 About Me
 
-I am a PhD student at **City University of Hong Kong** and **Shenzhen Loop Area Institute**, starting in September 2025. My research is centered on the intersection of multi-modal learning and surgical intelligence. I have been deeply involved in developing large-scale clinical AI systems and optimizing foundation models for medical applications.
+I am a PhD student at **City University of Hong Kong** and **Shenzhen Loop Area Institute**, starting in September 2025. My research is centered on the intersection of multi-modal learning and world models. I have been deeply involved in developing large-scale clinical AI systems and optimizing foundation models for medical applications.
 
 ### 🔍 Research Interests
 * **Multi-modal Learning**: Vision-Language Models (VLMs), Cross-modal Alignment, and Long-video Understanding.
@@ -27,16 +27,18 @@ I am a PhD student at **City University of Hong Kong** and **Shenzhen Loop Area 
 * **Test-Time Adaptation (TTA)**: Efficient adaptation for long-context learning.
 * **Medical AI**: Intelligent analysis for laryngoscopy and respiratory intensive care.
 
-I am currently a Research Assistant at **CAIR, HKISI-CAS**, where I lead projects on intelligent laryngoscopy systems and multi-agent clinical pathways.
+I’m very willing to participate in academic discussions and collaborations, so please feel free to contact me!
 
 <a href='https://scholar.google.com/citations?user=PkvoXRwAAAAJ'>
   <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 </a>
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Three papers (MCDRL, F²-Assist, ReGenHOI) were accepted by **CVPR 2026**!
-- *2025.03*: &nbsp;🚀 We released the "**Qilu-Jingjie**" Laryngoscope Diagnostic Large Model.
-- *2024.12*: &nbsp;📝 Our work on inpatient pathways was published in **npj Health Systems**.
+
+- *2026.03*: &nbsp;🎉🎉 One paper were accepted by **npj Health Systems**!
+- *2026.02*: &nbsp;🎉🎉 Three papers (MCDRL, *$F^{2}$-Assist, ReGenHOI) were accepted by **CVPR 2026**!
+- *2026.03*: &nbsp;🎉🎉 One paper were accepted by **IEEE Big Data 2025**!
+
 
 # 📝 Publications 
 
@@ -57,7 +59,6 @@ I am currently a Research Assistant at **CAIR, HKISI-CAS**, where I lead project
 
 # 🎖 Honors and Awards
 - *2019-2022* **Pacesetter Scholarship** (Top 5%), Awarded for three consecutive years.
-- *2025.03* Core Contributor to the "Qilu Jingjie" Laryngoscope Diagnostic Large Model.
 
 # 📖 Educations
 - *2025.09 - Present*, Joint PhD in Computer Science, **City University of Hong Kong & Shenzhen Loop Area Institute**.
@@ -66,5 +67,4 @@ I am currently a Research Assistant at **CAIR, HKISI-CAS**, where I lead project
 
 # 💻 Experience
 - *2023.07 - Present*, **Research Assistant**, CAIR, HKISI-CAS, Hong Kong.
-  - Developed the "Qilu-Jingjie" MLLM for real-time laryngoscopy analysis (96.4% accuracy).
-  - Optimized InternVL for automatic medical report generation, reducing writing time by 80%.
+
