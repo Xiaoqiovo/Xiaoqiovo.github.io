@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 About Me
 
-I am a PhD student at **City University of Hong Kong** and **Shenzhen Loop Area Institute**, starting in September 2025. My research is centered on the intersection of multi-modal learning and world models. I have been deeply involved in developing large-scale clinical AI systems and optimizing foundation models for medical applications.
+I am a PhD student at **City University of Hong Kong** supervised by Prof. Ma Jiawei and **Shenzhen Loop Area Institute** supervised by Prof. Zhao Hengshuang, starting in September 2025. My research is centered on the intersection of multi-modal learning and world models. 
 
 ### 🔍 Research Interests
 * **Multi-modal Learning**: Vision-Language Models (VLMs), Cross-modal Alignment, and Long-video Understanding.
@@ -29,9 +29,9 @@ I am a PhD student at **City University of Hong Kong** and **Shenzhen Loop Area 
 
 I’m very willing to participate in academic discussions and collaborations, so please feel free to contact me!
 
-<a href='https://scholar.google.com/citations?user=PkvoXRwAAAAJ'>
+<!-- <a href='https://scholar.google.com/citations?user=PkvoXRwAAAAJ'>
   <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a>
+</a> -->
 
 # 🔥 News
 
