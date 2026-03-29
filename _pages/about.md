@@ -35,14 +35,14 @@ I’m very willing to participate in academic discussions and collaborations, so
 
 # 🔥 News
 
-- *2026.03*: &nbsp;🎉🎉 One paper were accepted by **npj Health Systems**!
+- *2026.03*: &nbsp;🎉🎉 One paper was accepted by **npj Health Systems**!
 - *2026.02*: &nbsp;🎉🎉 Three papers (MCDRL, *$F^{2}$-Assist, ReGenHOI) were accepted by **CVPR 2026**!
-- *2026.03*: &nbsp;🎉🎉 One paper were accepted by **IEEE Big Data 2025**!
+- *2026.03*: &nbsp;🎉🎉 One paper was accepted by **IEEE Big Data 2025**!
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/figure1_v2.pdf' alt="MCDRL" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/figure3.png' alt="MCDRL" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MCDRL: Multimodal Causality-Driven Representation Learning for Generalizable Medical Image Segmentation](https://scholar.google.com/citations?user=PkvoXRwAAAAJ)
