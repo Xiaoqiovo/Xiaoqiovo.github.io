@@ -65,5 +65,5 @@ I’m very willing to participate in academic discussions and collaborations, so
 - *2019.09 - 2023.06*, B.Sc. in Biomedical Engineering, **University of Electronic Science and Technology of China (UESTC)**.
 
 # 💻 Experience
-- *2023.07 - Present*, **Research Assistant**, CAIR, HKISI-CAS, Hong Kong.
+- *2024.07 - 2025.07*, **Research Assistant**, CAIR, HKISI-CAS, Hong Kong.
 
