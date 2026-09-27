@@ -34,6 +34,7 @@ I’m very willing to participate in academic discussions and collaborations, so
 
 # 🔥 News
 
+- *2026.09*: &nbsp;🎉🎉 One paper was accepted by **NeurIPS 2026**!
 - *2026.03*: &nbsp;🎉🎉 One paper was accepted by **npj Health Systems**!
 - *2026.02*: &nbsp;🎉🎉 Three papers (MCDRL, *$F^{2}$-Assist, ReGenHOI) were accepted by **CVPR 2026**!
 - *2026.03*: &nbsp;🎉🎉 One paper was accepted by **IEEE Big Data 2025**!
@@ -65,5 +66,8 @@ I’m very willing to participate in academic discussions and collaborations, so
 - *2019.09 - 2023.06*, B.Sc. in Biomedical Engineering, **University of Electronic Science and Technology of China (UESTC)**.
 
 # 💻 Experience
-- *2024.07 - 2025.07*, **Research Assistant**, CAIR, HKISI-CAS, Hong Kong.
+- *2024.07 - 2025.07*, **Assistant Enginering**, CAIR, HKISI-CAS, Hong Kong.
 
+# 🧑‍⚖️ Academic Service
+- **Conference Reviewer**: AAAI, CVPR, NeurIPS
+- **Journal Reviewer**: IEEE TNNLS, IEEE TMM, Applied Intelligence
