@@ -19,7 +19,7 @@ redirect_from:
 
 # 👋 About Me
 
-I am a PhD student at **City University of Hong Kong** supervised by Prof. Ma Jiawei and **Shenzhen Loop Area Institute** supervised by Prof. Zhao Hengshuang, starting in September 2025. My research is centered on the intersection of multi-modal learning and world models. 
+I am a jointly supervised PhD student at **City University of Hong Kong** and **Shenzhen Loop Area Institute**, advised by Prof. Jiawei Ma and Prof. Hengshuang Zhao. My research interests lie at the intersection of multimodal learning and world models.
 
 ### 🔍 Research Interests
 * **Multi-modal Learning**: Vision-Language Models (VLMs), Cross-modal Alignment, and Long-video Understanding.
